@@ -12,7 +12,7 @@ Affiche l'intitulé de la mission ainsi que la durée, la température et la mé
 Affiche des jauges sur la nutrition et la fatigue éventuelle de l'aventurier 
 ### EFFECTUER MISSION
 Passe à la mission suivante si tout est prêt 
-### LE GECKO
+### L'AVATAR DU GECKO
 Fait des rappels sur l'inventaire ou sur la santé
 
 ## Certaines fonctionnalités ne sont pas terminées:
